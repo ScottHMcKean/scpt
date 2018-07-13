@@ -1,0 +1,10 @@
+Package: scpt
+Title: sCPT analysis and plotting package
+Version: 0.0.0.9000
+Authors@R: person("Scott", "McKean", email = "scott.mckean@thurber.ca", role = c("aut", "cre"))
+Description: This section defines a function to do all the calculations and create a large dataframe with the original data (already loaded), and the calculated paramters according to Mauricio's & Iain's spreadsheets.
+Depends: R (>= 3.5.0)
+License: GPLv3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
